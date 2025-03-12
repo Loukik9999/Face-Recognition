@@ -1,4 +1,4 @@
-# Face Recognition using Machine Learning
+# Face Recognition
 
 ## Overview
 This project implements a face recognition system using machine learning techniques. It utilizes the "Labeled Faces in the Wild" (LFW) dataset and applies Principal Component Analysis (PCA) for feature reduction, followed by a Support Vector Machine (SVM) classifier for face classification.
